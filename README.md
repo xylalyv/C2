@@ -154,7 +154,7 @@ The server code manages multiple connections and facilitates communication betwe
 ## **Contribution Guidelines**
 
 - **Fork the repository, make your changes, and submit a pull request.**
-
+<br><br>
 - **Report issues or suggest enhancements through the GitHub issue tracker.**
 <br><br>
 
